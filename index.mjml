@@ -1,0 +1,150 @@
+<mjml lang="en">
+  <mj-head>
+    <mj-title></mj-title>
+    <mj-preview></mj-preview>
+    <mj-style>
+      
+  u + .emailify a,
+  #MessageViewBody a,
+  a[x-apple-data-detectors] {
+    color: inherit !important;
+    text-decoration: none !important;
+    font-size: inherit !important;
+    font-family: inherit !important;
+    font-weight: inherit !important;
+    line-height: inherit !important;
+  }
+
+  span.MsoHyperlink { mso-style-priority:99; color:inherit; } span.MsoHyperlinkFollowed { mso-style-priority:99; color:inherit; }
+  
+  u + .emailify .glist { margin-left: 0 !important; } 
+  
+  @media only screen and (max-width:599px) {
+    .emailify { height:100% !important; margin:0 !important; padding:0 !important; width:100% !important; }
+    u + .emailify .glist { margin-left: 25px !important; }
+    td.x { padding-left: 0!important; padding-right: 0!important; }
+    br.sb { display: none!important; }
+    .hd-1 { display: block!important; height: auto!important; overflow: visible!important; }
+    .ht-1 { display: table!important; height: auto!important; overflow: visible!important; }
+    .hr-1 { display: table-row!important; height: auto!important; overflow: visible!important; }
+    .hc-1 { display: table-cell!important; height: auto!important; overflow: visible!important; }
+    td.b.fw-1 > table { width:100%!important } td.fw-1 > table > tbody > tr > td > a { display: block!important; width: 100%!important; padding-left: 0!important; padding-right: 0!important; }
+    td.b.fw-1 > table { width:100%!important } td.fw-1 > table > tbody > tr > td { width: 100%!important; padding-left: 0!important; padding-right: 0!important; }div.g.mb-16 > table > tbody > tr > td { padding-bottom:16px!important }
+  
+  }
+    </mj-style>
+    <mj-attributes>
+      <mj-all font-family="Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-breakpoint width="599px"></mj-breakpoint>
+    <mj-font href="https://fonts.googleapis.com/css?family=Inter:700,400" name="Inter"></mj-font>
+    <mj-style inline="inline">
+      .hd-1, .ht-1, .hr-1, .hc-1, .ds-1 { mso-hide: all; display: none; height: 0; overflow: hidden; } .hd-1 *, .ds-1 * { mso-hide: all; }
+    </mj-style>
+    <mj-raw>
+      
+    <meta name="color-scheme" content="light dark"><meta name="supported-color-schemes" content="light dark">
+    <!--[if gte mso 9]>
+    <style>
+    li {
+        text-indent: -1em;
+    }
+    </style>
+    <![endif]-->
+    </mj-raw>
+  </mj-head>
+  <mj-body background-color="#f5f5f5" width="600px">
+    <mj-section background-color="#fffffe" border-radius="0" border="none" css-class="" id="2:4" padding="16px 16px 16px 16px" text-align="left">
+      <mj-column background-color="transparent" border="none" css-class="c  " id="2:5" vertical-align="middle" width="568px">
+        <mj-image align="left" alt="" border-radius="0" css-class="i  " fluid-on-mobile="false" id="2:6" padding-bottom="0" padding="0" src="img/e4c2b4158a0b4567619f01a165abf1e9.png" width="74px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-hero background-color="#000000" background-height="400px" background-url="img/af317c320925077f1ddd486a49085c39.jpg" background-width="600px" border-radius="0" css-class="" height="400px" mode="fixed-height" padding="16px 16px 16px 16px" vertical-align="middle">
+      <mj-text align="center" css-class="m" font-family="Inter, Arial, sans-serif" font-size="50px" id="2:8" line-height="61px" padding-bottom="16px" padding="0px 0px 0px 0px">
+        <p style="Margin:0;text-align:center;"><span style="mso-line-height-rule: exactly;font-size:50px;font-family:Inter, Arial, sans-serif;font-weight:700;color:#ffffff;line-height:61px;">Sushi Mooshi today!</span></p>
+      </mj-text>
+      <mj-text align="center" css-class="x  m" font-family="Inter, Arial, sans-serif" font-size="16px" id="2:9" line-height="22px" padding-bottom="16px" padding="0px 0px 0px 0px">
+        <p style="Margin:0;text-align:center;"><span style="mso-line-height-rule: exactly;font-size:16px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#ffffff;line-height:22px;">The finest sushi in Japan, the way it’s meant to be eaten, is unadorned, like a flower. It’s whole, unadorned, it’s just good sushi, my friend.</span></p>
+      </mj-text>
+      <mj-button align="center" background-color="#fffffe" border-radius="60px 60px 60px 60px" border="none" css-class="b  fw-1 " font-family="Inter, Arial, sans-serif" href="#insertUrlLink" id="2:12" inner-padding="12px 0px 12px 0px" line-height="100%" padding-bottom="0" padding="0" vertical-align="middle" width="125px">
+        <span style="mso-line-height-rule: exactly;font-size:14px;font-family:Inter, Arial, sans-serif;font-weight:700;color:#000000;line-height:17px;">Ver el vídeo</span>
+      </mj-button>
+    </mj-hero>
+    <mj-section background-color="#fffffe" border-radius="0" border="none" css-class="" id="2:14" padding="16px 16px 16px 16px" text-align="left">
+      <mj-column background-color="#fffffe" border="none" css-class="m c  " id="2:15" padding="8px 8px 8px 8px" vertical-align="middle" width="178px">
+        <mj-image align="left" alt="" border-radius="0" css-class="i  fw-1 m" fluid-on-mobile="true" id="2:16" padding-bottom="4px" padding="0" src="img/56db349758dccaea91a6476924a67652.jpg" width="163px"></mj-image>
+        <mj-text align="left" css-class="x  m" font-family="Inter, Arial, sans-serif" font-size="13px" id="2:17" line-height="16px" padding-bottom="4px" padding="0px 0px 0px 0px">
+          <p style="Margin:0;text-align:left;"><span style="mso-line-height-rule: exactly;font-size:13px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#aaaaaa;line-height:16px;">New</span></p>
+        </mj-text>
+        <mj-text align="left" css-class="x  m" font-family="Inter, Arial, sans-serif" font-size="22px" id="2:18" line-height="27px" padding-bottom="4px" padding="0px 0px 0px 0px">
+          <p style="Margin:0;text-align:left;"><span style="mso-line-height-rule: exactly;font-size:22px;font-family:Inter, Arial, sans-serif;font-weight:700;color:#000000;line-height:27px;">Sushi</span></p>
+        </mj-text>
+        <mj-text align="left" css-class="x  m" font-family="Inter, Arial, sans-serif" font-size="16px" id="2:19" line-height="19px" padding-bottom="4px" padding="0px 0px 0px 0px">
+          <p style="Margin:0;text-align:left;"><span style="mso-line-height-rule: exactly;font-size:16px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#666666;line-height:19px;">$14.95</span></p>
+        </mj-text>
+        <mj-spacer css-class="s  m" height="4px" id="2:20" padding-bottom="4px" padding="0"></mj-spacer>
+        <mj-button align="left" background-color="#000000" border-radius="60px 60px 60px 60px" border="none" css-class="b  fw-1 " font-family="Inter, Arial, sans-serif" href="#insertUrlLink" id="2:21" inner-padding="12px 0px 12px 0px" line-height="100%" padding-bottom="0" padding="0" vertical-align="middle" width="118px">
+          <span style="mso-line-height-rule: exactly;font-size:14px;font-family:Inter, Arial, sans-serif;font-weight:700;color:#ffffff;line-height:17px;">Order Now</span>
+        </mj-button>
+      </mj-column>
+      <mj-column css-class="g mb-16" padding="0" width="16px">
+
+      </mj-column>
+      <mj-column background-color="#fffffe" border="none" css-class="m c  " id="2:23" padding="8px 8px 8px 8px" vertical-align="middle" width="178px">
+        <mj-image align="left" alt="" border-radius="0" css-class="i  fw-1 m" fluid-on-mobile="true" id="2:24" padding-bottom="4px" padding="0" src="img/6ddd64ea5f28c06047e90af717fb64fd.jpg" width="163px"></mj-image>
+        <mj-text align="left" css-class="x  m" font-family="Inter, Arial, sans-serif" font-size="13px" id="2:25" line-height="16px" padding-bottom="4px" padding="0px 0px 0px 0px">
+          <p style="Margin:0;text-align:left;"><span style="mso-line-height-rule: exactly;font-size:13px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#aaaaaa;line-height:16px;">New</span></p>
+        </mj-text>
+        <mj-text align="left" css-class="x  m" font-family="Inter, Arial, sans-serif" font-size="22px" id="2:26" line-height="27px" padding-bottom="4px" padding="0px 0px 0px 0px">
+          <p style="Margin:0;text-align:left;"><span style="mso-line-height-rule: exactly;font-size:22px;font-family:Inter, Arial, sans-serif;font-weight:700;color:#000000;line-height:27px;">Sushi</span></p>
+        </mj-text>
+        <mj-text align="left" css-class="x  m" font-family="Inter, Arial, sans-serif" font-size="16px" id="2:27" line-height="19px" padding-bottom="4px" padding="0px 0px 0px 0px">
+          <p style="Margin:0;text-align:left;"><span style="mso-line-height-rule: exactly;font-size:16px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#666666;line-height:19px;">$14.95</span></p>
+        </mj-text>
+        <mj-spacer css-class="s  m" height="4px" id="2:28" padding-bottom="4px" padding="0"></mj-spacer>
+        <mj-button align="left" background-color="#000000" border-radius="60px 60px 60px 60px" border="none" css-class="b  fw-1 " font-family="Inter, Arial, sans-serif" href="#insertUrlLink" id="2:29" inner-padding="12px 0px 12px 0px" line-height="100%" padding-bottom="0" padding="0" vertical-align="middle" width="118px">
+          <span style="mso-line-height-rule: exactly;font-size:14px;font-family:Inter, Arial, sans-serif;font-weight:700;color:#ffffff;line-height:17px;">Order Now</span>
+        </mj-button>
+      </mj-column>
+      <mj-column css-class="g mb-16" padding="0" width="16px">
+
+      </mj-column>
+      <mj-column background-color="#fffffe" border="none" css-class="c  " id="2:31" padding="8px 8px 8px 8px" vertical-align="middle" width="178px">
+        <mj-image align="left" alt="" border-radius="0" css-class="i  fw-1 m" fluid-on-mobile="true" id="2:32" padding-bottom="4px" padding="0" src="img/43b0e9c50a6521456d7d2c6ed6eda72f.jpg" width="163px"></mj-image>
+        <mj-text align="left" css-class="x  m" font-family="Inter, Arial, sans-serif" font-size="13px" id="2:33" line-height="16px" padding-bottom="4px" padding="0px 0px 0px 0px">
+          <p style="Margin:0;text-align:left;"><span style="mso-line-height-rule: exactly;font-size:13px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#aaaaaa;line-height:16px;">New</span></p>
+        </mj-text>
+        <mj-text align="left" css-class="x  m" font-family="Inter, Arial, sans-serif" font-size="22px" id="2:34" line-height="27px" padding-bottom="4px" padding="0px 0px 0px 0px">
+          <p style="Margin:0;text-align:left;"><span style="mso-line-height-rule: exactly;font-size:22px;font-family:Inter, Arial, sans-serif;font-weight:700;color:#000000;line-height:27px;">Sushi</span></p>
+        </mj-text>
+        <mj-text align="left" css-class="x  m" font-family="Inter, Arial, sans-serif" font-size="16px" id="2:35" line-height="19px" padding-bottom="4px" padding="0px 0px 0px 0px">
+          <p style="Margin:0;text-align:left;"><span style="mso-line-height-rule: exactly;font-size:16px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#666666;line-height:19px;">$14.95</span></p>
+        </mj-text>
+        <mj-spacer css-class="s  m" height="4px" id="2:36" padding-bottom="4px" padding="0"></mj-spacer>
+        <mj-button align="left" background-color="#000000" border-radius="60px 60px 60px 60px" border="none" css-class="b  fw-1 " font-family="Inter, Arial, sans-serif" href="#insertUrlLink" id="2:37" inner-padding="12px 0px 12px 0px" line-height="100%" padding-bottom="0" padding="0" vertical-align="middle" width="118px">
+          <span style="mso-line-height-rule: exactly;font-size:14px;font-family:Inter, Arial, sans-serif;font-weight:700;color:#ffffff;line-height:17px;">Order Now</span>
+        </mj-button>
+      </mj-column>
+      <mj-column padding="0" width="1px">
+
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#eeeeee" border-radius="0" border="none" css-class="" id="2:39" padding="16px 16px 16px 16px" text-align="left">
+      <mj-column background-color="transparent" border="none" css-class="c  " id="2:40" vertical-align="middle" width="568px">
+        <mj-image align="center" alt="" border-radius="0" css-class="i  m" fluid-on-mobile="false" id="2:41" padding-bottom="16px" padding="0" src="img/e4c2b4158a0b4567619f01a165abf1e9.png" width="74px"></mj-image>
+        <mj-text align="center" css-class="x  m" font-family="Inter, Arial, sans-serif" font-size="13px" id="2:42" line-height="16px" padding-bottom="16px" padding="0px 0px 0px 0px">
+          <p style="Margin:0;text-align:center;"><span style="mso-line-height-rule: exactly;font-size:13px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#4d4d4d;line-height:16px;">Jiro Sushi, Inc.</span></p>
+        </mj-text>
+        <mj-text align="center" css-class="x  m" font-family="Inter, Arial, sans-serif" font-size="13px" id="2:43" line-height="16px" padding-bottom="16px" padding="0px 0px 0px 0px">
+          <p style="Margin:0;text-align:center;"><span style="mso-line-height-rule: exactly;font-size:13px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#aaaaaa;line-height:16px;">Tsukamoto Sogyo Building, Basement 1st Floor,</p><p style="Margin:0;"><span style="mso-line-height-rule: exactly;font-size:13px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#aaaaaa;line-height:16px;">&nbsp; 2-15, Ginza 4-chome, Chuo-ku, Tokyo, Japan</span></p>
+        </mj-text>
+        <mj-social align="center" css-class="o  " inner-padding="0 16px 0 0" padding-bottom="0" padding="0" width="128px">
+          <mj-social-element alt="Instagram" border-radius="0" css-class="e  m" href="#insertUrlLink" icon-height="20px" icon-size="20px" id="2:45" src="img/d56f37f1b6c31bb5cd5e49f01bf8bb60.png" vertical-align="middle"></mj-social-element>
+          <mj-social-element alt="Facebook" border-radius="0" css-class="e  m" href="#insertUrlLink" icon-height="20px" icon-size="20px" id="2:47" src="img/7286881b3c3b4ea00f616017b455846d.png" vertical-align="middle"></mj-social-element>
+          <mj-social-element alt="Twitter" border-radius="0" css-class="e  m" href="#insertUrlLink" icon-height="20px" icon-size="20px" id="2:49" src="img/f571bf9b58d1b7f39c5133e0df82bf64.png" vertical-align="middle"></mj-social-element>
+          <mj-social-element alt="YouTube" border-radius="0" css-class="e  " href="#insertUrlLink" icon-height="20px" icon-size="20px" id="2:51" padding-right="0" padding="0" src="img/384ccda4d019fc8fd746b35c58c267b1.png" vertical-align="middle"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
